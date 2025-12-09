@@ -1649,7 +1649,10 @@ Solutions:
 ## Conclusion
 
 Fine-tuning LLMs has evolved from expensive full fine-tuning to efficient parameter-efficient methods. **LoRA and QLoRA** have emerged as the dominant techniques, offering an excellent balance of efficiency, accuracy, and ease of use.
+
 The field continues to evolve, but the fundamentals covered here will serve you well for practical applications. Focus on data quality, proper evaluation, and gradual improvement.
 
 Happy fine-tuning!
+
+---
 
